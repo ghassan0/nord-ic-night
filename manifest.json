@@ -1,0 +1,54 @@
+{
+  "name": "Nord-ic Night",
+  "description": "A solid dark theme inspired by the awesome Nord theme.",
+  "manifest_version": 2,
+  "version": "1.0",
+  "author": "Ghassan Alduraibi <git@ghassan.dev>",
+  "theme": {
+    "colors": {
+      "frame": "#2e3440",
+      "frame_inactive": "#2e3440",
+      "tab_background_separator": "#3b4252",
+      "tab_background_text": "#d8dee9",
+      "tab_loading": "#d8dee9",
+      "tab_text": "#eceff4",
+      "tab_selected": "#3b4252",
+      "tab_line": "#2e3440",
+      "icons": "#d8dee9",
+      "icons_attention": "#3b4252",
+      "toolbar": "#2e3440",
+      "toolbar_field": "#2e3440",
+      "toolbar_field_focus": "#2e3440",
+      "toolbar_field_highlight": "#3b4252",
+      "toolbar_field_highlight_text": "#eceff4",
+      "toolbar_field_text": "#d8dee9",
+      "toolbar_field_text_focus": "#eceff4",
+      "toolbar_field_border": "#2e3440",
+      "toolbar_field_border_focus": "#2e3440",
+      "toolbar_field_separator": "#2e3440",
+      "popup_highlight": "#3b4252",
+      "popup_highlight_text": "#eceff4",
+      "popup": "#2e3440",
+      "popup_text": "#d8dee9",
+      "popup_border": "#2e3440",
+      "button_background_active": "#2e3440",
+      "button_background_hover": "#2e3440",
+      "toolbar_vertical_separator": "#2e3440",
+      "toolbar_top_separator": "#2e3440",
+      "toolbar_bottom_separator": "#2e3440",
+      "bookmark_text": "#d8dee9",
+      "sidebar_highlight": "#3b4252",
+      "sidebar_highlight_text": "#eceff4",
+      "sidebar": "#2e3440",
+      "sidebar_text": "#d8dee9",
+      "sidebar_border": "#2e3440",
+      "ntp_background": "#2e3440",
+      "ntp_text": "#d8dee9"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "nord-ic-night@ghassan.dev"
+    }
+  }
+}
