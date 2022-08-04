@@ -2,7 +2,7 @@
   "name": "Nord-ic Night",
   "description": "A solid dark theme inspired by the awesome Nord theme.",
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "2.0",
   "author": "Ghassan Alduraibi <git@ghassan.dev>",
   "theme": {
     "colors": {
@@ -19,7 +19,7 @@
       "toolbar": "#2e3440",
       "toolbar_field": "#2e3440",
       "toolbar_field_focus": "#2e3440",
-      "toolbar_field_highlight": "#3b4252",
+      "toolbar_field_highlight": "#434c5e",
       "toolbar_field_highlight_text": "#eceff4",
       "toolbar_field_text": "#d8dee9",
       "toolbar_field_text_focus": "#eceff4",
@@ -31,8 +31,8 @@
       "popup": "#2e3440",
       "popup_text": "#d8dee9",
       "popup_border": "#2e3440",
-      "button_background_active": "#2e3440",
-      "button_background_hover": "#2e3440",
+      "button_background_active": "#3b4252",
+      "button_background_hover": "#3b4252",
       "toolbar_vertical_separator": "#2e3440",
       "toolbar_top_separator": "#2e3440",
       "toolbar_bottom_separator": "#2e3440",
