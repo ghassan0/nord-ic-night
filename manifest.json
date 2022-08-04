@@ -2,7 +2,7 @@
   "name": "Nord-ic Night",
   "description": "A solid dark theme inspired by the awesome Nord theme.",
   "manifest_version": 2,
-  "version": "2.0",
+  "version": "1.1",
   "author": "Ghassan Alduraibi <git@ghassan.dev>",
   "theme": {
     "colors": {
